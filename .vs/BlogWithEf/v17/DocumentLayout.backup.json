@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wykof\\Fall2026ASP.NET\\DataAccess\\BlogWithEf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A5BEE9-6A53-8C66-5EE5-F9B45B3F0879}|BlogWithEf.csproj|c:\\users\\wykof\\fall2026asp.net\\dataaccess\\blogwithef\\views\\posts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4A5BEE9-6A53-8C66-5EE5-F9B45B3F0879}|BlogWithEf.csproj|solutionrelative:views\\posts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A5BEE9-6A53-8C66-5EE5-F9B45B3F0879}|BlogWithEf.csproj|c:\\users\\wykof\\fall2026asp.net\\dataaccess\\blogwithef\\views\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4A5BEE9-6A53-8C66-5EE5-F9B45B3F0879}|BlogWithEf.csproj|solutionrelative:views\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A5BEE9-6A53-8C66-5EE5-F9B45B3F0879}|BlogWithEf.csproj|c:\\users\\wykof\\fall2026asp.net\\dataaccess\\blogwithef\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A5BEE9-6A53-8C66-5EE5-F9B45B3F0879}|BlogWithEf.csproj|solutionrelative:controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A5BEE9-6A53-8C66-5EE5-F9B45B3F0879}|BlogWithEf.csproj|c:\\users\\wykof\\fall2026asp.net\\dataaccess\\blogwithef\\views\\posts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4A5BEE9-6A53-8C66-5EE5-F9B45B3F0879}|BlogWithEf.csproj|solutionrelative:views\\posts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A5BEE9-6A53-8C66-5EE5-F9B45B3F0879}|BlogWithEf.csproj|c:\\users\\wykof\\fall2026asp.net\\dataaccess\\blogwithef\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4A5BEE9-6A53-8C66-5EE5-F9B45B3F0879}|BlogWithEf.csproj|solutionrelative:views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A5BEE9-6A53-8C66-5EE5-F9B45B3F0879}|BlogWithEf.csproj|c:\\users\\wykof\\fall2026asp.net\\dataaccess\\blogwithef\\views\\posts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4A5BEE9-6A53-8C66-5EE5-F9B45B3F0879}|BlogWithEf.csproj|solutionrelative:views\\posts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A5BEE9-6A53-8C66-5EE5-F9B45B3F0879}|BlogWithEf.csproj|c:\\users\\wykof\\fall2026asp.net\\dataaccess\\blogwithef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A5BEE9-6A53-8C66-5EE5-F9B45B3F0879}|BlogWithEf.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A5BEE9-6A53-8C66-5EE5-F9B45B3F0879}|BlogWithEf.csproj|c:\\users\\wykof\\fall2026asp.net\\dataaccess\\blogwithef\\data\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A5BEE9-6A53-8C66-5EE5-F9B45B3F0879}|BlogWithEf.csproj|solutionrelative:data\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\wykof\\Fall2026ASP.NET\\DataAccess\\BlogWithEf\\Views\\Posts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Posts\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\wykof\\Fall2026ASP.NET\\DataAccess\\BlogWithEf\\Views\\Posts\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Posts\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-05T01:27:52.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\wykof\\Fall2026ASP.NET\\DataAccess\\BlogWithEf\\Views\\Posts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Posts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\wykof\\Fall2026ASP.NET\\DataAccess\\BlogWithEf\\Views\\Posts\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Posts\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-05T01:12:00.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\wykof\\Fall2026ASP.NET\\DataAccess\\BlogWithEf\\Views\\Posts\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Posts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\wykof\\Fall2026ASP.NET\\DataAccess\\BlogWithEf\\Views\\Posts\\Details.cshtml",
+              "RelativeToolTip": "Views\\Posts\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-05T01:07:43.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\wykof\\Fall2026ASP.NET\\DataAccess\\BlogWithEf\\Views\\Posts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Posts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\wykof\\Fall2026ASP.NET\\DataAccess\\BlogWithEf\\Views\\Posts\\Index.cshtml",
+              "RelativeToolTip": "Views\\Posts\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-05T00:59:15.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\wykof\\Fall2026ASP.NET\\DataAccess\\BlogWithEf\\Views\\Posts\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Posts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\wykof\\Fall2026ASP.NET\\DataAccess\\BlogWithEf\\Views\\Posts\\Create.cshtml",
+              "RelativeToolTip": "Views\\Posts\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-05T00:48:07.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\wykof\\Fall2026ASP.NET\\DataAccess\\BlogWithEf\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\wykof\\Fall2026ASP.NET\\DataAccess\\BlogWithEf\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "Controllers\\PostsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T00:23:29.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wykof\\Fall2026ASP.NET\\DataAccess\\BlogWithEf\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\wykof\\Fall2026ASP.NET\\DataAccess\\BlogWithEf\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T23:57:11.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlogDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\wykof\\Fall2026ASP.NET\\DataAccess\\BlogWithEf\\Data\\BlogDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\BlogDbContext.cs",
+              "ToolTip": "C:\\Users\\wykof\\Fall2026ASP.NET\\DataAccess\\BlogWithEf\\Data\\BlogDbContext.cs",
+              "RelativeToolTip": "Data\\BlogDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T23:49:31.966Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
